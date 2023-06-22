@@ -1,16 +1,16 @@
-2023	Chennai Super Kings	
-2022	Gujarat Titans	
-2021	Chennai Super Kings
-2020	Mumbai Indians	
-2019	Mumbai Indians	
-2018	Chennai Super Kings	
-2017	Mumbai Indians	
-2016	Sunrisers Hyderabad	
-2015	Mumbai Indians	
-2014	Kolkata Knight Riders	
-2013	Mumbai Indians	
-2012	Kolkata Knight Riders	
-2011	Chennai Super Kings	
-2010	Chennai Super Kings	
-2009	Deccan Chargers	
-2008	Rajasthan Royals
+2023	CSK	
+2022	GT
+2021	CSK
+2020	MI	
+2019	MI	
+2018	CSK	
+2017	MI	
+2016	SRH	
+2015	MI	
+2014	KKRiders	
+2013	MI	
+2012	KKRiders	
+2011	CSK	
+2010	CSK	
+2009	DC
+2008	RR
